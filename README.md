@@ -1,2 +1,1 @@
-# prepcourse-henri
-este es un modelo de prueba del prepcourse2 
+este proyecyo es una prueba de como crear un repositorio y clonarlo desde github a mi computadora 
